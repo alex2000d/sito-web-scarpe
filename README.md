@@ -1,10 +1,4 @@
-1- creare la sezione header con una nav bar responsive
-2- creare una sezione contenente un'immagine di sfondo o un video con una scritta (x)
-2.1- se metti l'immagine allora dividi in due sezioni e nella destra metti una card (x) 
-3- sezione nuovi arrivi con 4 card (x)
-4-sezione divisa i due con la scritta girls collection
-5- sezione con tre card saldi 50% (x)
-6- sezione la scarpa piu venduta del momento 
-7- sezione commenti
-8- footer con sezione divisa in 4 con shop, policies, contact, social 
-9- sotto sezione divisa in due con nome del sito web e nome creatore del sito
+![Screenshot 2025-02-25 170323](https://github.com/user-attachments/assets/95483009-a27e-4461-b5a0-0aa4a5141a9f)
+![Screenshot 2025-02-25 170407](https://github.com/user-attachments/assets/938c59e2-6e21-4637-a165-de4ad1c6b93c)
+![Screenshot 2025-02-25 170435](https://github.com/user-attachments/assets/9ee78b51-5b1b-4670-983a-9305e91d0fbb)
+![Screenshot 2025-02-25 170502](https://github.com/user-attachments/assets/259fc508-91b0-4ed6-b751-46233ee58ed1)
